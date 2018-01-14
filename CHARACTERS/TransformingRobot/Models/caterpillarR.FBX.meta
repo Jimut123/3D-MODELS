@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: e8785ae2372a44fdcaf4b018e14383f1
+timeCreated: 1442305279
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone069
+    100002: Bone070
+    100004: Bone071
+    100006: Bone095
+    100008: Bone096
+    100010: Bone100
+    100012: Bone101
+    100014: Bone102
+    100016: Bone103
+    100018: Bone104
+    100020: Bone105
+    100022: Bone106
+    100024: Bone107
+    100026: Bone108
+    100028: Bone109
+    100030: Bone110
+    100032: Bone111
+    100034: Bone112
+    100036: Bone113
+    100038: Bone114
+    100040: Bone115
+    100042: Bone116
+    100044: Bone117
+    100046: Bone118
+    100048: Bone119
+    100050: Bone120
+    100052: Bone121
+    100054: Bone122
+    100056: Bone123
+    100058: Bone124
+    100060: //RootNode
+    100062: cR
+    400000: Bone069
+    400002: Bone070
+    400004: Bone071
+    400006: Bone095
+    400008: Bone096
+    400010: Bone100
+    400012: Bone101
+    400014: Bone102
+    400016: Bone103
+    400018: Bone104
+    400020: Bone105
+    400022: Bone106
+    400024: Bone107
+    400026: Bone108
+    400028: Bone109
+    400030: Bone110
+    400032: Bone111
+    400034: Bone112
+    400036: Bone113
+    400038: Bone114
+    400040: Bone115
+    400042: Bone116
+    400044: Bone117
+    400046: Bone118
+    400048: Bone119
+    400050: Bone120
+    400052: Bone121
+    400054: Bone122
+    400056: Bone123
+    400058: Bone124
+    400060: //RootNode
+    400062: cR
+    4300000: cR
+    7400000: Forward
+    7400002: Back
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Forward
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone095
+        weight: 1
+      - path: Bone095/Bone069
+        weight: 1
+      - path: Bone095/Bone070
+        weight: 1
+      - path: Bone095/Bone071
+        weight: 1
+      - path: Bone095/Bone096
+        weight: 1
+      - path: Bone100
+        weight: 1
+      - path: Bone100/Bone101
+        weight: 1
+      - path: Bone100/Bone101/Bone102
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123/Bone124
+        weight: 1
+      - path: cR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Back
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone095
+        weight: 1
+      - path: Bone095/Bone069
+        weight: 1
+      - path: Bone095/Bone070
+        weight: 1
+      - path: Bone095/Bone071
+        weight: 1
+      - path: Bone095/Bone096
+        weight: 1
+      - path: Bone100
+        weight: 1
+      - path: Bone100/Bone101
+        weight: 1
+      - path: Bone100/Bone101/Bone102
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123
+        weight: 1
+      - path: Bone100/Bone101/Bone102/Bone103/Bone104/Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123/Bone124
+        weight: 1
+      - path: cR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
