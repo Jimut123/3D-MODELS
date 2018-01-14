@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: f22648c6df591d840a58fec289eb40f5
+timeCreated: 1483304305
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_Collision_01
+    100002: B_Collision_02
+    100004: B_Collision_03
+    100006: B_Collision_04
+    100008: B_Collision_05
+    100010: B_Door_Driver
+    100012: B_Door_Passenger
+    100014: B_Gate
+    100016: B_Root
+    100018: B_Steering_Wheel
+    100020: B_Tire_LF
+    100022: B_Tire_Rear_Front
+    100024: B_Tire_Rear_Rear
+    100026: B_Tire_RF
+    100028: //RootNode
+    100030: reference
+    100032: VEH_Goat_Truck_Skeletal_Mesh
+    400000: B_Collision_01
+    400002: B_Collision_02
+    400004: B_Collision_03
+    400006: B_Collision_04
+    400008: B_Collision_05
+    400010: B_Door_Driver
+    400012: B_Door_Passenger
+    400014: B_Gate
+    400016: B_Root
+    400018: B_Steering_Wheel
+    400020: B_Tire_LF
+    400022: B_Tire_Rear_Front
+    400024: B_Tire_Rear_Rear
+    400026: B_Tire_RF
+    400028: //RootNode
+    400030: reference
+    400032: VEH_Goat_Truck_Skeletal_Mesh
+    2300000: B_Collision_01
+    2300002: B_Collision_02
+    2300004: B_Collision_03
+    2300006: B_Collision_04
+    2300008: B_Collision_05
+    2300010: B_Door_Driver
+    2300012: B_Door_Passenger
+    2300014: B_Gate
+    2300016: B_Root
+    2300018: B_Steering_Wheel
+    2300020: B_Tire_LF
+    2300022: B_Tire_Rear_Front
+    2300024: B_Tire_Rear_Rear
+    2300026: B_Tire_RF
+    2300028: reference
+    2300030: VEH_Goat_Truck_Skeletal_Mesh
+    3300000: B_Collision_01
+    3300002: B_Collision_02
+    3300004: B_Collision_03
+    3300006: B_Collision_04
+    3300008: B_Collision_05
+    3300010: B_Door_Driver
+    3300012: B_Door_Passenger
+    3300014: B_Gate
+    3300016: B_Root
+    3300018: B_Steering_Wheel
+    3300020: B_Tire_LF
+    3300022: B_Tire_Rear_Front
+    3300024: B_Tire_Rear_Rear
+    3300026: B_Tire_RF
+    3300028: reference
+    3300030: VEH_Goat_Truck_Skeletal_Mesh
+    4300000: B_Collision_01
+    4300002: B_Collision_02
+    4300004: B_Collision_03
+    4300006: B_Collision_04
+    4300008: B_Collision_05
+    4300010: B_Door_Driver
+    4300012: B_Door_Passenger
+    4300014: B_Gate
+    4300016: B_Root
+    4300018: B_Steering_Wheel
+    4300020: B_Tire_LF
+    4300022: B_Tire_Rear_Front
+    4300024: B_Tire_Rear_Rear
+    4300026: B_Tire_RF
+    4300028: reference
+    4300030: VEH_Goat_Truck_Skeletal_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

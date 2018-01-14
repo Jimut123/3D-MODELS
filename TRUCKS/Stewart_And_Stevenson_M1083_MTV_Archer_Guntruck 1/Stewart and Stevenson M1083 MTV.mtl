@@ -1,0 +1,130 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.07.2015 22:35:31
+
+newmtl 10e660d9_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0034.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0034.dds
+	map_d C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0034.dds
+
+newmtl 920dce98_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0021.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0021.dds
+
+newmtl d427824d_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0007.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0007.dds
+
+newmtl 345b3988_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0018.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0018.dds
+
+newmtl 11ee2e00_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0013.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0013.dds
+
+newmtl a92509c4_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0016.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0016.dds
+
+newmtl e6385dcc_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0010.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0010.dds
+
+newmtl 6fc16fb2_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0024.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0024.dds
+	map_d C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0024.dds
+
+newmtl 2bd8c29f_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0001.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\Stewart and Stevenson M1083 MTV 'Archer Guntruck'\textures\texture_0001.dds

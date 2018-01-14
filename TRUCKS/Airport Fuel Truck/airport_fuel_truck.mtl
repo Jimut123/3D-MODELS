@@ -1,0 +1,16 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub smdimportmtl (1) to come 
+#
+newmtl airport_fuel_truck.tga
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd airport_fuel_truck.tga
+#
+# Multi/Sub smdimportmtl done 
+#
+# EOF

@@ -1,0 +1,73 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.07.2015 13:48:18
+
+newmtl f4907756_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0012.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0012.dds
+
+newmtl 10e660d9_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0025.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0025.dds
+	map_d C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0025.dds
+
+newmtl 726fa1a1_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0022.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0022.dds
+
+newmtl 04feed3a_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0016.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0016.dds
+
+newmtl 345b3988_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0019.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\1984 Kenworth K-100 'Mark Truck'\textures\texture_0019.dds

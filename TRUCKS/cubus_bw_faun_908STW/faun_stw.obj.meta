@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e1b1a952cce3abe4a8be21f26749813a
+timeCreated: 1483305669
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _driver
+    100002: _player
+    100004: block
+    100006: bumber
+    100008: detail
+    100010: //RootNode
+    100012: glas
+    100014: kaba
+    100016: kabi
+    100018: kf
+    100020: licht
+    100022: loescher
+    100024: pumpe
+    100026: radfv
+    100028: radhf
+    100030: radp
+    100032: rahmen
+    100034: rost
+    100036: rrad
+    100038: tankadds
+    100040: tankmain
+    100042: tools
+    100044: verdeck
+    400000: _driver
+    400002: _player
+    400004: block
+    400006: bumber
+    400008: detail
+    400010: //RootNode
+    400012: glas
+    400014: kaba
+    400016: kabi
+    400018: kf
+    400020: licht
+    400022: loescher
+    400024: pumpe
+    400026: radfv
+    400028: radhf
+    400030: radp
+    400032: rahmen
+    400034: rost
+    400036: rrad
+    400038: tankadds
+    400040: tankmain
+    400042: tools
+    400044: verdeck
+    2300000: _driver
+    2300002: _player
+    2300004: block
+    2300006: bumber
+    2300008: detail
+    2300010: glas
+    2300012: kaba
+    2300014: kabi
+    2300016: kf
+    2300018: licht
+    2300020: loescher
+    2300022: pumpe
+    2300024: radfv
+    2300026: radhf
+    2300028: radp
+    2300030: rahmen
+    2300032: rost
+    2300034: rrad
+    2300036: tankadds
+    2300038: tankmain
+    2300040: tools
+    2300042: verdeck
+    3300000: _driver
+    3300002: _player
+    3300004: block
+    3300006: bumber
+    3300008: detail
+    3300010: glas
+    3300012: kaba
+    3300014: kabi
+    3300016: kf
+    3300018: licht
+    3300020: loescher
+    3300022: pumpe
+    3300024: radfv
+    3300026: radhf
+    3300028: radp
+    3300030: rahmen
+    3300032: rost
+    3300034: rrad
+    3300036: tankadds
+    3300038: tankmain
+    3300040: tools
+    3300042: verdeck
+    4300000: _driver
+    4300002: _player
+    4300004: block
+    4300006: bumber
+    4300008: detail
+    4300010: glas
+    4300012: kaba
+    4300014: kabi
+    4300016: kf
+    4300018: licht
+    4300020: loescher
+    4300022: pumpe
+    4300024: radfv
+    4300026: radhf
+    4300028: radp
+    4300030: rahmen
+    4300032: rost
+    4300034: rrad
+    4300036: tankadds
+    4300038: tankmain
+    4300040: tools
+    4300042: verdeck
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
