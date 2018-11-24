@@ -1,2 +1,2 @@
-# 3D-MODELS
+# 3D MODELS OF GAME DEVELOPMENT [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 All 3D models in Unity Game Development
